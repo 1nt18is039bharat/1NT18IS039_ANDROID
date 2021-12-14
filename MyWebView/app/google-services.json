@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "394275910093",
+    "project_id": "sms-encryption-7dffb",
+    "storage_bucket": "sms-encryption-7dffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394275910093:android:28f801b0307b9f67c99484",
+        "android_client_info": {
+          "package_name": "com.example.myencryption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394275910093-6807gmic238va628nqabkipnmfg8jtbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myencryption",
+            "certificate_hash": "c89bec38fa273f633eb8e322ceccea80a29dc8f9"
+          }
+        },
+        {
+          "client_id": "394275910093-rrn5jv4b51vlk8c85il3fhibfc4v1jr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtqddb9NaS46SwDeUpWIXBobljthK69Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394275910093-rrn5jv4b51vlk8c85il3fhibfc4v1jr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
